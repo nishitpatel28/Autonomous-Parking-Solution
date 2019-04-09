@@ -19,4 +19,8 @@ This repository includes all important code files used for Autonomous Parking So
 
 8> updatadata.php : update data received from NodeMCU to database.
 
+9> parklog.sql : database for each car that has entered.
+
+10> parkspace.sql: database for each parking space alloted.
+
 .
