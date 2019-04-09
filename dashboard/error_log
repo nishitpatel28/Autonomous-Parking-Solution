@@ -1,0 +1,119 @@
+[07-Apr-2019 01:37:38 Etc/GMT] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/saledu/public_html/gih2019/dashboard/index.php on line 15
+[07-Apr-2019 01:37:38 Etc/GMT] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/saledu/public_html/gih2019/dashboard/index.php on line 15
+[07-Apr-2019 01:37:38 Etc/GMT] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/saledu/public_html/gih2019/dashboard/index.php on line 15
+[07-Apr-2019 01:37:38 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/saledu/public_html/gih2019/dashboard/index.php on line 18
+[07-Apr-2019 01:37:38 Etc/GMT] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/saledu/public_html/gih2019/dashboard/index.php on line 18
+[07-Apr-2019 01:37:38 Etc/GMT] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home/saledu/public_html/gih2019/dashboard/index.php on line 19
+[07-Apr-2019 01:37:43 Etc/GMT] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/saledu/public_html/gih2019/dashboard/index.php on line 15
+[07-Apr-2019 01:37:43 Etc/GMT] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/saledu/public_html/gih2019/dashboard/index.php on line 15
+[07-Apr-2019 01:37:43 Etc/GMT] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/saledu/public_html/gih2019/dashboard/index.php on line 15
+[07-Apr-2019 01:37:43 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/saledu/public_html/gih2019/dashboard/index.php on line 18
+[07-Apr-2019 01:37:43 Etc/GMT] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/saledu/public_html/gih2019/dashboard/index.php on line 18
+[07-Apr-2019 01:37:43 Etc/GMT] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home/saledu/public_html/gih2019/dashboard/index.php on line 19
+[07-Apr-2019 01:39:54 Etc/GMT] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/saledu/public_html/gih2019/dashboard/index.php on line 15
+[07-Apr-2019 01:39:54 Etc/GMT] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/saledu/public_html/gih2019/dashboard/index.php on line 15
+[07-Apr-2019 01:39:54 Etc/GMT] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/saledu/public_html/gih2019/dashboard/index.php on line 15
+[07-Apr-2019 01:39:54 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/saledu/public_html/gih2019/dashboard/index.php on line 18
+[07-Apr-2019 01:39:54 Etc/GMT] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/saledu/public_html/gih2019/dashboard/index.php on line 18
+[07-Apr-2019 01:39:54 Etc/GMT] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home/saledu/public_html/gih2019/dashboard/index.php on line 19
+[07-Apr-2019 01:40:51 Etc/GMT] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/saledu/public_html/gih2019/dashboard/index.php on line 15
+[07-Apr-2019 01:40:51 Etc/GMT] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/saledu/public_html/gih2019/dashboard/index.php on line 15
+[07-Apr-2019 01:40:51 Etc/GMT] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/saledu/public_html/gih2019/dashboard/index.php on line 15
+[07-Apr-2019 01:40:51 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/saledu/public_html/gih2019/dashboard/index.php on line 18
+[07-Apr-2019 01:40:51 Etc/GMT] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/saledu/public_html/gih2019/dashboard/index.php on line 18
+[07-Apr-2019 01:40:51 Etc/GMT] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home/saledu/public_html/gih2019/dashboard/index.php on line 19
+[07-Apr-2019 01:42:23 Etc/GMT] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/saledu/public_html/gih2019/dashboard/index.php on line 15
+[07-Apr-2019 01:42:23 Etc/GMT] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/saledu/public_html/gih2019/dashboard/index.php on line 15
+[07-Apr-2019 01:42:23 Etc/GMT] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/saledu/public_html/gih2019/dashboard/index.php on line 15
+[07-Apr-2019 01:42:23 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/saledu/public_html/gih2019/dashboard/index.php on line 18
+[07-Apr-2019 01:42:23 Etc/GMT] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/saledu/public_html/gih2019/dashboard/index.php on line 18
+[07-Apr-2019 01:42:23 Etc/GMT] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home/saledu/public_html/gih2019/dashboard/index.php on line 19
+[07-Apr-2019 01:42:27 Etc/GMT] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/saledu/public_html/gih2019/dashboard/index.php on line 15
+[07-Apr-2019 01:42:27 Etc/GMT] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/saledu/public_html/gih2019/dashboard/index.php on line 15
+[07-Apr-2019 01:42:27 Etc/GMT] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/saledu/public_html/gih2019/dashboard/index.php on line 15
+[07-Apr-2019 01:42:27 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/saledu/public_html/gih2019/dashboard/index.php on line 18
+[07-Apr-2019 01:42:27 Etc/GMT] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/saledu/public_html/gih2019/dashboard/index.php on line 18
+[07-Apr-2019 01:42:27 Etc/GMT] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home/saledu/public_html/gih2019/dashboard/index.php on line 19
+[07-Apr-2019 01:42:53 Etc/GMT] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/saledu/public_html/gih2019/dashboard/index.php on line 15
+[07-Apr-2019 01:42:53 Etc/GMT] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/saledu/public_html/gih2019/dashboard/index.php on line 15
+[07-Apr-2019 01:42:53 Etc/GMT] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/saledu/public_html/gih2019/dashboard/index.php on line 15
+[07-Apr-2019 01:42:53 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/saledu/public_html/gih2019/dashboard/index.php on line 18
+[07-Apr-2019 01:42:53 Etc/GMT] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/saledu/public_html/gih2019/dashboard/index.php on line 18
+[07-Apr-2019 01:42:53 Etc/GMT] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home/saledu/public_html/gih2019/dashboard/index.php on line 19
+[07-Apr-2019 01:42:56 Etc/GMT] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/saledu/public_html/gih2019/dashboard/index.php on line 15
+[07-Apr-2019 01:42:56 Etc/GMT] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/saledu/public_html/gih2019/dashboard/index.php on line 15
+[07-Apr-2019 01:42:56 Etc/GMT] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/saledu/public_html/gih2019/dashboard/index.php on line 15
+[07-Apr-2019 01:42:56 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/saledu/public_html/gih2019/dashboard/index.php on line 18
+[07-Apr-2019 01:42:56 Etc/GMT] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/saledu/public_html/gih2019/dashboard/index.php on line 18
+[07-Apr-2019 01:42:56 Etc/GMT] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home/saledu/public_html/gih2019/dashboard/index.php on line 19
+[07-Apr-2019 01:44:48 Etc/GMT] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/saledu/public_html/gih2019/dashboard/index.php on line 15
+[07-Apr-2019 01:44:48 Etc/GMT] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/saledu/public_html/gih2019/dashboard/index.php on line 15
+[07-Apr-2019 01:44:48 Etc/GMT] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/saledu/public_html/gih2019/dashboard/index.php on line 15
+[07-Apr-2019 01:44:48 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/saledu/public_html/gih2019/dashboard/index.php on line 18
+[07-Apr-2019 01:44:48 Etc/GMT] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/saledu/public_html/gih2019/dashboard/index.php on line 18
+[07-Apr-2019 01:44:48 Etc/GMT] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home/saledu/public_html/gih2019/dashboard/index.php on line 19
+[07-Apr-2019 01:48:06 Etc/GMT] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/saledu/public_html/gih2019/dashboard/index.php on line 15
+[07-Apr-2019 01:48:06 Etc/GMT] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/saledu/public_html/gih2019/dashboard/index.php on line 15
+[07-Apr-2019 01:48:06 Etc/GMT] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/saledu/public_html/gih2019/dashboard/index.php on line 15
+[07-Apr-2019 01:48:06 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/saledu/public_html/gih2019/dashboard/index.php on line 18
+[07-Apr-2019 01:48:06 Etc/GMT] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/saledu/public_html/gih2019/dashboard/index.php on line 18
+[07-Apr-2019 01:48:06 Etc/GMT] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home/saledu/public_html/gih2019/dashboard/index.php on line 24
+[07-Apr-2019 01:51:11 Etc/GMT] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/saledu/public_html/gih2019/dashboard/index.php on line 15
+[07-Apr-2019 01:51:11 Etc/GMT] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/saledu/public_html/gih2019/dashboard/index.php on line 15
+[07-Apr-2019 01:51:11 Etc/GMT] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/saledu/public_html/gih2019/dashboard/index.php on line 15
+[07-Apr-2019 01:51:11 Etc/GMT] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/saledu/public_html/gih2019/dashboard/index.php on line 16
+[07-Apr-2019 01:51:11 Etc/GMT] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/saledu/public_html/gih2019/dashboard/index.php on line 16
+[07-Apr-2019 01:51:11 Etc/GMT] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/saledu/public_html/gih2019/dashboard/index.php on line 16
+[07-Apr-2019 01:51:11 Etc/GMT] PHP Notice:  Undefined variable: conn in /home/saledu/public_html/gih2019/dashboard/index.php on line 20
+[07-Apr-2019 01:51:11 Etc/GMT] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/saledu/public_html/gih2019/dashboard/index.php on line 20
+[07-Apr-2019 01:51:11 Etc/GMT] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home/saledu/public_html/gih2019/dashboard/index.php on line 26
+[07-Apr-2019 01:59:08 Etc/GMT] PHP Notice:  Undefined variable: result in /home/saledu/public_html/gih2019/dashboard/index.php on line 26
+[07-Apr-2019 01:59:08 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/saledu/public_html/gih2019/dashboard/index.php on line 26
+[07-Apr-2019 01:59:38 Etc/GMT] PHP Notice:  Undefined variable: result in /home/saledu/public_html/gih2019/dashboard/index.php on line 26
+[07-Apr-2019 01:59:38 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/saledu/public_html/gih2019/dashboard/index.php on line 26
+[07-Apr-2019 02:00:07 Etc/GMT] PHP Notice:  Undefined variable: result in /home/saledu/public_html/gih2019/dashboard/index.php on line 26
+[07-Apr-2019 02:00:07 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/saledu/public_html/gih2019/dashboard/index.php on line 26
+[07-Apr-2019 02:00:31 Etc/GMT] PHP Notice:  Undefined variable: result in /home/saledu/public_html/gih2019/dashboard/index.php on line 26
+[07-Apr-2019 02:00:31 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/saledu/public_html/gih2019/dashboard/index.php on line 26
+[07-Apr-2019 02:00:50 Etc/GMT] PHP Notice:  Undefined variable: result in /home/saledu/public_html/gih2019/dashboard/index.php on line 26
+[07-Apr-2019 02:00:50 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/saledu/public_html/gih2019/dashboard/index.php on line 26
+[07-Apr-2019 02:00:51 Etc/GMT] PHP Notice:  Undefined variable: result in /home/saledu/public_html/gih2019/dashboard/index.php on line 26
+[07-Apr-2019 02:00:51 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/saledu/public_html/gih2019/dashboard/index.php on line 26
+[07-Apr-2019 02:00:52 Etc/GMT] PHP Notice:  Undefined variable: result in /home/saledu/public_html/gih2019/dashboard/index.php on line 26
+[07-Apr-2019 02:00:52 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/saledu/public_html/gih2019/dashboard/index.php on line 26
+[07-Apr-2019 02:02:25 Etc/GMT] PHP Notice:  Undefined variable: result in /home/saledu/public_html/gih2019/dashboard/index.php on line 26
+[07-Apr-2019 02:02:25 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/saledu/public_html/gih2019/dashboard/index.php on line 26
+[07-Apr-2019 02:05:23 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_num_row() in /home/saledu/public_html/gih2019/dashboard/index.php on line 26
+[07-Apr-2019 02:06:18 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_num_row() in /home/saledu/public_html/gih2019/dashboard/index.php on line 26
+[07-Apr-2019 02:06:21 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_num_row() in /home/saledu/public_html/gih2019/dashboard/index.php on line 26
+[07-Apr-2019 02:07:17 Etc/GMT] PHP Fatal error:  Call to undefined function mysql_num_row() in /home/saledu/public_html/gih2019/dashboard/index.php on line 26
+[07-Apr-2019 02:52:04 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/saledu/public_html/gih2019/dashboard/index.php on line 26
+[07-Apr-2019 02:52:04 Etc/GMT] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/saledu/public_html/gih2019/dashboard/index.php on line 32
+[07-Apr-2019 03:13:07 Etc/GMT] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/saledu/public_html/gih2019/dashboard/index.php on line 26
+[07-Apr-2019 03:13:07 Etc/GMT] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/saledu/public_html/gih2019/dashboard/index.php on line 32
+[07-Apr-2019 04:01:52 Etc/GMT] PHP Notice:  date_default_timezone_set(): Timezone ID 'Aisa/Kolkata' is invalid in /home/saledu/public_html/gih2019/dashboard/index.php on line 57
+[07-Apr-2019 04:01:52 Etc/GMT] PHP Warning:  date_diff() expects parameter 1 to be DateTime, string given in /home/saledu/public_html/gih2019/dashboard/index.php on line 64
+[07-Apr-2019 04:02:42 Etc/GMT] PHP Notice:  date_default_timezone_set(): Timezone ID 'Aisa/Kolkata' is invalid in /home/saledu/public_html/gih2019/dashboard/index.php on line 57
+[07-Apr-2019 04:02:42 Etc/GMT] PHP Warning:  date_diff() expects parameter 1 to be DateTime, string given in /home/saledu/public_html/gih2019/dashboard/index.php on line 64
+[07-Apr-2019 04:03:14 Etc/GMT] PHP Notice:  date_default_timezone_set(): Timezone ID 'Aisa/Kolkata' is invalid in /home/saledu/public_html/gih2019/dashboard/index.php on line 57
+[07-Apr-2019 04:03:14 Etc/GMT] PHP Warning:  date_diff() expects parameter 1 to be DateTime, string given in /home/saledu/public_html/gih2019/dashboard/index.php on line 64
+[07-Apr-2019 04:03:55 Etc/GMT] PHP Notice:  date_default_timezone_set(): Timezone ID 'Aisa/Kolkata' is invalid in /home/saledu/public_html/gih2019/dashboard/index.php on line 57
+[07-Apr-2019 04:03:55 Etc/GMT] PHP Warning:  date_diff() expects parameter 1 to be DateTime, string given in /home/saledu/public_html/gih2019/dashboard/index.php on line 64
+[07-Apr-2019 04:04:24 Etc/GMT] PHP Notice:  date_default_timezone_set(): Timezone ID 'Aisa/Kolkata' is invalid in /home/saledu/public_html/gih2019/dashboard/index.php on line 57
+[07-Apr-2019 04:04:24 Etc/GMT] PHP Warning:  date_diff() expects parameter 1 to be DateTime, string given in /home/saledu/public_html/gih2019/dashboard/index.php on line 64
+[07-Apr-2019 04:07:39 Etc/GMT] PHP Notice:  date_default_timezone_set(): Timezone ID 'Aisa/Kolkata' is invalid in /home/saledu/public_html/gih2019/dashboard/index.php on line 57
+[07-Apr-2019 04:07:39 Etc/GMT] PHP Warning:  date_diff() expects parameter 1 to be DateTime, string given in /home/saledu/public_html/gih2019/dashboard/index.php on line 65
+[07-Apr-2019 04:09:06 Etc/GMT] PHP Notice:  date_default_timezone_set(): Timezone ID 'Aisa/Kolkata' is invalid in /home/saledu/public_html/gih2019/dashboard/index.php on line 57
+[07-Apr-2019 04:09:06 Etc/GMT] PHP Notice:  Undefined variable: date1 in /home/saledu/public_html/gih2019/dashboard/index.php on line 65
+[07-Apr-2019 04:09:06 Etc/GMT] PHP Warning:  date_diff() expects parameter 1 to be DateTime, null given in /home/saledu/public_html/gih2019/dashboard/index.php on line 65
+[07-Apr-2019 04:10:24 Etc/GMT] PHP Notice:  date_default_timezone_set(): Timezone ID 'Aisa/Kolkata' is invalid in /home/saledu/public_html/gih2019/dashboard/index.php on line 57
+[07-Apr-2019 04:12:00 Etc/GMT] PHP Notice:  date_default_timezone_set(): Timezone ID 'Aisa/Kolkata' is invalid in /home/saledu/public_html/gih2019/dashboard/index.php on line 57
+[07-Apr-2019 04:14:52 Etc/GMT] PHP Notice:  date_default_timezone_set(): Timezone ID 'Aisa/Kolkata' is invalid in /home/saledu/public_html/gih2019/dashboard/index.php on line 57
+[07-Apr-2019 04:15:31 Etc/GMT] PHP Notice:  date_default_timezone_set(): Timezone ID 'Aisa/Kolkata' is invalid in /home/saledu/public_html/gih2019/dashboard/index.php on line 57
+[07-Apr-2019 04:15:35 Etc/GMT] PHP Notice:  date_default_timezone_set(): Timezone ID 'Aisa/Kolkata' is invalid in /home/saledu/public_html/gih2019/dashboard/index.php on line 57
+[07-Apr-2019 04:24:39 Etc/GMT] PHP Notice:  date_default_timezone_set(): Timezone ID 'Aisa/Kolkata' is invalid in /home/saledu/public_html/gih2019/dashboard/index.php on line 57
+[07-Apr-2019 04:24:39 Etc/GMT] PHP Notice:  date_default_timezone_set(): Timezone ID 'Aisa/Kolkata' is invalid in /home/saledu/public_html/gih2019/dashboard/index.php on line 57
+[07-Apr-2019 04:49:18 Etc/GMT] PHP Notice:  date_default_timezone_set(): Timezone ID 'Aisa/Kolkata' is invalid in /home/saledu/public_html/gih2019/dashboard/index.php on line 57
+[07-Apr-2019 04:58:43 Etc/GMT] PHP Notice:  date_default_timezone_set(): Timezone ID 'Aisa/Kolkata' is invalid in /home/saledu/public_html/gih2019/dashboard/index.php on line 57
+[07-Apr-2019 05:15:31 Etc/GMT] PHP Notice:  date_default_timezone_set(): Timezone ID 'Aisa/Kolkata' is invalid in /home/saledu/public_html/gih2019/dashboard/index.php on line 57
+[07-Apr-2019 05:15:31 Etc/GMT] PHP Notice:  date_default_timezone_set(): Timezone ID 'Aisa/Kolkata' is invalid in /home/saledu/public_html/gih2019/dashboard/index.php on line 57
